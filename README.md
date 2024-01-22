@@ -6,10 +6,10 @@
 
 - 🔓 New chest unlocked!
 ``` diff
-# You got: 
-# Lua (common)
+You got: 
+! Lua (common)
 + Python (uncommon)
-# JavaScript (common)
+! JavaScript (common)
 + HTML (uncommon)
 + CSS (uncommon)
 - Ruby (rare)
