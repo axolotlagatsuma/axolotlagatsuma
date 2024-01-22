@@ -5,7 +5,10 @@
 - 😄 Pronouns: Just He because I'll never be him. xD
 - ⚡ Fun fact: I am not an axolotl.
 
-<!---
-axolotlagatsuma/axolotlagatsuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`` 
+- 🔓 New programming language unlocked!
+``
+``` diff
+@@ You got: Lua (common)
+```
+
