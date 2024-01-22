@@ -9,6 +9,6 @@
 - 🔓 New programming language unlocked!
 ``
 ``` diff
-@@ You got: Lua (common)
+@@ You got: Lua (common) @@
 ```
 
