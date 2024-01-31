@@ -7,10 +7,10 @@
 - 🔓 New chest unlocked!
 ``` diff
 You got: 
-! Lua (common)
-+ Python (uncommon)
-! JavaScript (common)
-+ HTML (uncommon)
-+ CSS (uncommon)
-$${\color{red}Ruby}$$
+! Lua (Common)
++ Python (Uncommon)
+! JavaScript (Common)
++ HTML (Uncommon)
++ CSS (Uncommon)
+- Ruby (Rare)
 ```
