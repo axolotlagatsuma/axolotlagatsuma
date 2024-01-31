@@ -12,6 +12,5 @@ You got:
 ! JavaScript (common)
 + HTML (uncommon)
 + CSS (uncommon)
-- Ruby (rare)
+$${\color{red}Ruby}$$
 ```
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
