@@ -5,7 +5,7 @@
 - 😄 Pronouns: Just He because I'll never be him. xD
 - ⚡ Fun fact: I am not an axolotl.
 
-- 🔓 New chest unlocked!
+- 🔓 New Chest Unlocked!
 ``` diff
 You got: 
 ! Lua (Common)
@@ -15,3 +15,4 @@ You got:
 + CSS (Uncommon)
 - Ruby (Rare)
 ```
+- These are programming languages that I know and how good at them. Better the rarity, better the (my) experience with it.
