@@ -1,6 +1,6 @@
 - 👋 Hiya! I'm @axolotlagatsuma.
 - 🇹🇷 I am a Turk.
-- 💻 My hobbies mostly revolve around tech other that cycling.
+- 💻 My hobbies mostly revolve around tech other than cycling.
 - 📧 You can reach me using e-mails or make a issue on this repository.
 - 👨 My pronouns are he because I'll never be him. xD
 - 🐧 Fun Fact: I am not an axolotl, Tony Stark and Linus Torvalds are two of my idols
