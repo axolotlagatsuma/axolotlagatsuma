@@ -11,5 +11,5 @@
 ![java-developer](https://github.com/axolotlagatsuma/axolotlagatsuma/assets/154734794/7ca8007d-6c00-45fe-8092-87c04b010b37)     
 ![lua-developer](https://github.com/axolotlagatsuma/axolotlagatsuma/assets/154734794/ccc193c8-3a34-467d-98f8-3550d9c0142a)   
 ![kotlin-developer](https://github.com/axolotlagatsuma/axolotlagatsuma/assets/154734794/6eafa43b-0c4b-48a7-a25a-94ff35f193bb) 
-
+[![Axolotl's GitHub stats](https://github-readme-stats.vercel.app/api?username=axolotlagatsuma)](https://github.com/anuraghazra/github-readme-stats)
 ![badge320p](https://github.com/axolotlagatsuma/axolotlagatsuma/assets/154734794/a72a98de-23e3-461b-a453-be77b269f05a)
