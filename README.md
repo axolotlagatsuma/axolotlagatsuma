@@ -7,4 +7,5 @@
 - 🔨 I can build anything if you give me time.
 - 💔 A wise teacher of mine once said: "Emotions are foolish; decisions are made with logic, not emotions."
 - ❤️ I love translating stuff.
-[![Axolotl's GitHub stats](https://github-readme-stats.vercel.app/api?username=axolotlagatsuma)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Axolotl's GitHub stats](https://github-readme-stats.vercel.app/api?username=axolotlagatsuma&theme=shadow_blue)
