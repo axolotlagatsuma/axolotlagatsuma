@@ -1,18 +1,18 @@
 Hi 👋 My name is Axolotl Agatsuma
-=================================Web Designer, Developer, Gamer and Translator---------------------------------------------
-🚴  I like cycling and tech.
-😆  My pronoun is only he because I'll never be him.
-🐧  My idols are currently Tony Stark and Linus Torvalds.
-🔨  There's nothing I can't do if you give me enough time. 
-🎮  I love translating, gaming and coding.
-🧑‍🏫  And lastly a quote from a wise teacher of mine, "Emotions are foolish: decisions are made with logic, not emotions."
-🌍  I'm based in Türkiye
-🖥️  See my portfolio at [my blog](http://axolotlagatsuma.github.io)
-✉️  You can contact me at [agatsuma.axolotlpublic@gmail.com](mailto:agatsuma.axolotlpublic@gmail.com)
-🚀  I'm currently working on [Build the Earth Middle East](http://(s)://buildtheearth.net/teams/me)
-🧠  I'm learning Java
-🤝  I'm open to collaborating on Minecraft plugins and translation projects 
-⚡  I am not an actual axolotl
+=================================Web Designer, Developer, Gamer and Translator--------------------------------------------- <br>
+🚴  I like cycling and tech. <br>
+😆  My pronoun is only he because I'll never be him. <br>
+🐧  My idols are currently Tony Stark and Linus Torvalds. <br>
+🔨  There's nothing I can't do if you give me enough time. <br>
+🎮  I love translating, gaming and coding. <br>
+🧑‍🏫  And lastly a quote from a wise teacher of mine, "Emotions are foolish: decisions are made with logic, not emotions." <br>
+🌍  I'm based in Türkiye <br>
+🖥️  See my portfolio at [my blog](http://axolotlagatsuma.github.io) <br>
+✉️  You can contact me at [agatsuma.axolotlpublic@gmail.com](mailto:agatsuma.axolotlpublic@gmail.com) <br>
+🚀  I'm currently working on [Build the Earth Middle East](http://(s)://buildtheearth.net/teams/me) <br>
+🧠  I'm learning Java <br>
+🤝  I'm open to collaborating on Minecraft plugins and translation projects  <br>
+⚡  I am not an actual axolotl <br>
 
 <a href="https://www.github.com/axolotlagatsuma" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/axolotlagatsuma?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a><a href="https://www.x.com/axolotlagatsuma" target="_blank" rel="noreferrer"><img
