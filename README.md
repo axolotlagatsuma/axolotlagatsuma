@@ -8,8 +8,8 @@ Hi 👋 My name is Axolotl Agatsuma
 🧑‍🏫  And lastly a quote from a wise teacher of mine, "Emotions are foolish: decisions are made with logic, not emotions." <br>
 🌍  I'm based in Türkiye <br>
 🖥️  See my portfolio at [my blog](http://axolotlagatsuma.github.io) <br>
-✉️  You can contact me at [agatsuma.axolotlpublic@gmail.com](mailto:agatsuma.axolotlpublic@gmail.com) <br>
-🚀  I'm currently working on [Build the Earth Middle East](http://(s)://buildtheearth.net/teams/me) <br>
+✉️  You can contact me at [agatsuma.axolotlpublic@gmail.com](mailto:agatsuma.axolotlpublic@gmail.com) <br()
+  🚀  I'm currently working on [a web app that makes creating custom Stargate gates much easier](https://github.com/axolotlagatsuma/Stargate-Gate-Creator-Web-App), [a plugin](https://github.com/BTE-Middle-East/MinecraftWarpAdderSite-Plugin) and [a web app](https://github.com/BTE-Middle-East/MinecraftWarpAdderSite) that allows builders to register their warps themselves. <br>
 🧠  I'm learning Java <br>
 🤝  I'm open to collaborating on Minecraft plugins and translation projects  <br>
 ⚡  I am not an actual axolotl <br>
