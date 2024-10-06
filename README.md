@@ -1,4 +1,4 @@
-# Hello! I am Axolotl Agatsuma.
+# 👋 Hello! I am Axolotl Agatsuma.
 A software developer & sysadmin from Turkey. <br>
 I go by Axolotl, Axo for short. <br>
 My contacts are: <br>
